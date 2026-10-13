@@ -1,4 +1,5 @@
 # Society Management (ASP.NET final project, early version)
+[![CI](https://github.com/sajidkamaljoy/asp.net-final-project/actions/workflows/ci.yml/badge.svg)](https://github.com/sajidkamaljoy/asp.net-final-project/actions/workflows/ci.yml)
 
 An earlier iteration of the society management REST API. It focuses on tenants, repair requests and security staff shifts. The more complete, later version is in the repo `SocietyManagement`.
 
