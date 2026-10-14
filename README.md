@@ -1,6 +1,8 @@
 # Society Management (ASP.NET final project, early version)
 [![CI](https://github.com/sajidkamaljoy/asp.net-final-project/actions/workflows/ci.yml/badge.svg)](https://github.com/sajidkamaljoy/asp.net-final-project/actions/workflows/ci.yml)
 
+> **Note:** this project was originally developed under my earlier GitHub account, [sajid43677/asp.net-final-project](https://github.com/sajid43677/asp.net-final-project), and was moved to this account in October 2026.
+
 An earlier iteration of the society management REST API. It focuses on tenants, repair requests and security staff shifts. The more complete, later version is in the repo `SocietyManagement`.
 
 ## Solution layout
